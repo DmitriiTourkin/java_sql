@@ -1,0 +1,7 @@
+INSERT INTO books (title, publishing_year, author)
+VALUES ('Преступление и наказание', 1865, 'Достоевский М.Ф.');
+INSERT INTO books (title, publishing_year, author)
+VALUES ('Отцы и дети', 1862, 'Тургенев И.С.');
+INSERT INTO books (title, publishing_year, author)
+VALUES ('Война и мир', 1865 , 'Толстой Л.Н.');
+
